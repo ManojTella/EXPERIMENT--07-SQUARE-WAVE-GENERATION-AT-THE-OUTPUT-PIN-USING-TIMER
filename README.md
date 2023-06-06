@@ -367,11 +367,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ![fi](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/37ca1ece-79ce-48e4-a6d6-da8d9f276bbd)
+### At 500
 
 ![image](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/a722ef28-7030-427f-9089-611f85c0a063)
+### At 700
 
 ![Screenshot 2023-05-27 155744](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/aa69b033-eb48-4540-ab12-97fd37056b1d)
-
+### At 900
 
 ![Screenshot 2023-05-27 160911](https://github.com/ManojTella/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94883876/907153bb-7a4c-45a1-a41b-c05e5d50e37f)
 
