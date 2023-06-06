@@ -394,7 +394,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 =1/(410^-3)
 
-=250Hz
+=319.63Hz
 
 ## FOR PULSE AT 700
 Total Time Period=3.11ms
